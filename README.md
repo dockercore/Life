@@ -47,5 +47,5 @@
 
 <h3>值得你花时间去思考的文章</h3>
 
-[你的人生在你的手里还是在你的老板手中？](%28https://github.com/robinoftem/Life/blob/master/%E4%BD%A0%E7%9A%84%E4%BA%BA%E7%94%9F%E5%9C%A8%E4%BD%A0%E7%9A%84%E6%89%8B%E9%87%8C%E8%BF%98%E6%98%AF%E5%9C%A8%E4%BD%A0%E7%9A%84%E8%80%81%E6%9D%BF%E6%89%8B%E4%B8%AD%EF%BC%9F.md)
+[你的人生在你的手里还是在你的老板手中？](https://github.com/robinoftem/Life/blob/master/%E4%BD%A0%E7%9A%84%E4%BA%BA%E7%94%9F%E5%9C%A8%E4%BD%A0%E7%9A%84%E6%89%8B%E9%87%8C%E8%BF%98%E6%98%AF%E5%9C%A8%E4%BD%A0%E7%9A%84%E8%80%81%E6%9D%BF%E6%89%8B%E4%B8%AD.md)
 <hr/>
